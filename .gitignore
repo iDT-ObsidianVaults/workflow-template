@@ -1,0 +1,18 @@
+
+# Work space configuration
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Cache and deleted files
+.obsidian/cache
+.trash/
+
+# MacOS file
+.DS_Store
+Thumbs.db
+
+# Plugins
+# Recent Files
+.obsidian/plugins/recent-files-obsidian/data.json
+# Git plugin settings stay on the Mac
+.obsidian/plugins/obsidian-git/data.json
